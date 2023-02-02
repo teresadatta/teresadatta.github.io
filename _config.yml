@@ -82,12 +82,14 @@ analytics:
 author:
   name             : "Machine Learning Researcher"
   avatar           : "headshot.jpg"
-  bio              : "e-mail: [first name][lastname]@gmail.com"
+  bio              : "Upcoming Events:
+  - Feb 3: Moderating WiDS Data Science & Climate Change Panel
+  - Feb 6: Presenting @ SaTML in Raleigh, NC"
   location         : "New York City"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : 
+  email            : teresadatta@gmail.com
   researchgate     :  
   uri              :
   bitbucket        :
