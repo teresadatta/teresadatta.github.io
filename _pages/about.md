@@ -18,7 +18,7 @@ I am passionate about public service, advocacy, and Diversity & Inclusion. I ser
 Upcoming Events: 
 ------
 * Feb 3: Moderating WiDS Data Science & Climate Change Panel
-* Feb 9: Presenting @ SaTML 2023 in Raleigh, NC
+* Feb 9: Presenting @ IEEE SaTML 2023 in Raleigh, NC
 
 Past Events:
 ------
