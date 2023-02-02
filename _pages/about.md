@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Howdy! I'm a Machine Learning Engineer at [Arthur](https://www.arthur.ai/) interested in transparency and social impact of algorithmic systems from a human-centered, sociotechnical lens. Previously, I've worked on XAI and HCI projects with the [AI4LIFE](https://twitter.com/ai4life_harvard?lang=en) and [DtAK](https://dtak.github.io/) labs while completing my M.S. in Data Science at Harvard University. I received my B.A. in Chemistry summa cum laude from Cornell University.
+Howdy! I'm Teresa- a Machine Learning Engineer at [**Arthur**](https://www.arthur.ai/) interested in transparency and social impact of algorithmic systems from a **human-centered, sociotechnical lens**. Recently, I've worked on XAI and HCI projects with the [AI4LIFE](https://twitter.com/ai4life_harvard?lang=en) and [DtAK](https://dtak.github.io/) labs while completing my M.S. in Data Science at Harvard University. I received my B.A. in Chemistry summa cum laude from Cornell University.
 
 Check out my [publications](https://teresadatta.github.io/publications/).
 
-I've also completed summer internships at Meta, Johnson & Johnson R&D, and Spotify.
+Previously, I've had the pleasure of completing summer internships at Meta, Johnson & Johnson R&D, and Spotify.
 
-I am passionate about public service and advocacy. I am on the core team for the global [WiDS (Women in Data Science) datathon](https://www.widsconference.org/datathon.html). I've volunteered as a data scientist for small political campaigns through [Bluebonnet](https://www.bluebonnetdata.org/), and I've served as the Lead Chair of the Harvard IACS Advisory Committee for Diversity, Inclusion, & Leadership.
+I am passionate about public service, advocacy, and Diversity & Inclusion. I serve on the core team for the global [WiDS (Women in Data Science) datathon](https://www.widsconference.org/datathon.html), have volunteered as a data scientist for small political campaigns through [Bluebonnet](https://www.bluebonnetdata.org/), and have served as the Lead Chair of the Harvard IACS Advisory Committee for Diversity, Inclusion, & Leadership.
 
 Upcoming Events: 
 ------
