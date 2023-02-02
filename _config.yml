@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Machine Learning Researcher"
   avatar           : "headshot.jpg"
-  bio              : "Upcoming Events:
-  - Feb 3: Moderating WiDS Data Science & Climate Change Panel
-  - Feb 6: Presenting @ SaTML in Raleigh, NC"
+  bio              : 
   location         : "New York City"
   employer         :
   pubmed           :
