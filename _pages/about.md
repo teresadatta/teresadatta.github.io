@@ -11,6 +11,10 @@ Howdy! I'm a Machine Learning Engineer at [Arthur](https://www.arthur.ai/) inter
 
 Check out my [publications](https://teresadatta.github.io/publications/).
 
+I've also completed summer internships at Meta, Johnson & Johnson R&D, and Spotify.
+
+I am passionate about public service and advocacy. I am on the core team for the global [WiDS (Women in Data Science) datathon](https://www.widsconference.org/datathon.html). I've volunteered as a data scientist for small political campaigns through [Bluebonnet](https://www.bluebonnetdata.org/), and I've served as the Lead Chair of the Harvard IACS Advisory Committee for Diversity, Inclusion, & Leadership.
+
 Upcoming Events: 
 ------
 * Feb 3: Moderating WiDS Data Science & Climate Change Panel
@@ -23,18 +27,9 @@ Past Events:
 * Oct 14: Invited Speaker @ GRiSTS
 * July 28: Student @ STS Summer School Harvard
 
-In addition: 
-------
-I've also completed summer internships at Meta, Johnson & Johnson R&D, and Spotify.
-
-Bluebonnet, WiDS, Harvard IACS Advisory Committee for Diversity, Inclusion, & Leadership Oct 2020 – May 2022 Head Administrative Chair
-• Coordinated group of ~15 peers in advancing institutional recommendations related to Diversity and Inclusion
-• Applied for, received, and managed over $20k in funding; sponsored and formulated new DIB Fellowship program
-Diversity, Inclusion, & Leadership Reading Group Jan – May 2022
-• Coordinated and facilitated biweekly reading group of 15 graduate students on broader issues in technology
-Harvard Berkman Klein Center / Assembly Disinformation Fellow Sep 2020 – May 2021 • Selected 
 
 Teaching:
+-------
 * Harvard: AC 221 Critical Thinking in Data Science 
 * Harvard: GenEd 1104 Science & Cooking
 * Cornell: CS 2110 OO Programming in Java
